@@ -1,5 +1,5 @@
 //Author: Nathan Zou
-//Date: 10/6/21
+//Date: 10/10/21
 //Code takes a string input from user and checks if it is a palindrome
 //Memset help from Nikhil Nayak
 //ASCII conversion idea from Chris Zou
